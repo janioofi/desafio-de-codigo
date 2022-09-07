@@ -9,3 +9,9 @@ Lendo e pulando nomes: https://gist.github.com/jan1ooo/51be7c6181491224412f59873
 Arrays e Pares: https://gist.github.com/jan1ooo/75b560f928ed9e02e653093a3c5d64f9
 
 Cálculo simples: https://gist.github.com/jan1ooo/de026c24bbf85962c9784c6596989fe6
+
+Reduzindo um número a zero: https://gist.github.com/jan1ooo/db20b18d8dfdf46f1c44fa9589651048
+
+Robô: https://gist.github.com/jan1ooo/c360ee81616d0bea946a37c09645efed
+
+Contando números pares: https://gist.github.com/jan1ooo/4ea75f030e57a201274b3d1daab13e31
