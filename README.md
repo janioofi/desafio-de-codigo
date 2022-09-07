@@ -13,3 +13,5 @@ Cálculo simples: https://gist.github.com/jan1ooo/de026c24bbf85962c9784c6596989f
 Reduzindo um número a zero: https://gist.github.com/jan1ooo/db20b18d8dfdf46f1c44fa9589651048
 
 Robô: https://gist.github.com/jan1ooo/c360ee81616d0bea946a37c09645efed
+
+Contando números pares: https://gist.github.com/jan1ooo/4ea75f030e57a201274b3d1daab13e31
