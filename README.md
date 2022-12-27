@@ -15,3 +15,14 @@ Reduzindo um número a zero: https://gist.github.com/jan1ooo/db20b18d8dfdf46f1c4
 Robô: https://gist.github.com/jan1ooo/c360ee81616d0bea946a37c09645efed
 
 Contando números pares: https://gist.github.com/jan1ooo/1df3606d7590bc36049064f9135521cf
+
+Industria da Multa: https://gist.github.com/jan1ooo/8753ff088f0eb2d94536eef0d539c02
+
+Mesada do Sobrinho: https://gist.github.com/jan1ooo/7861008c181ddd205836fe12dbc232de
+
+Download de pacotes: https://gist.github.com/jan1ooo/03de60234d7e6639418afa13a3d24caa
+
+Leitura da Gertrudes: https://gist.github.com/jan1ooo/947c4e8e6f0a89c2810f319f2227c611
+
+Lojinha de Doces: https://gist.github.com/jan1ooo/da4152e8dd7c4700a4831f4ee36a3c4b
+
