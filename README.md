@@ -29,3 +29,9 @@ Lojinha de Doces: https://gist.github.com/jan1ooo/da4152e8dd7c4700a4831f4ee36a3c
 Fábrica de Carros: https://gist.github.com/jan1ooo/04e75253227af47b5bf535118ae8028a
 
 Dragão: https://gist.github.com/jan1ooo/a117e6b4d3f1d37ffea9a65768713a19
+
+Fibonacci Fácil: https://gist.github.com/jan1ooo/6f38003d4a2c48ad73576d6e45b1fcb9
+
+Imprimindo Positivos e Média: https://gist.github.com/jan1ooo/dcabfcb0eb24472f22ff2457b4185400
+
+Soma de H com N termos: https://gist.github.com/jan1ooo/3c5059443be82aadf2ade12432a8315a
