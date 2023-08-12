@@ -35,3 +35,7 @@ Fibonacci Fácil: https://gist.github.com/jan1ooo/6f38003d4a2c48ad73576d6e45b1fc
 Imprimindo Positivos e Média: https://gist.github.com/jan1ooo/dcabfcb0eb24472f22ff2457b4185400
 
 Soma de H com N termos: https://gist.github.com/jan1ooo/3c5059443be82aadf2ade12432a8315a
+
+## Bootcamp Desenvolvimento Java com Cloud AWS
+
+Validando a Força de Senhas no IAM: https://gist.github.com/jan1ooo/7ad2e7aebe32d9556f24b7946b808125
