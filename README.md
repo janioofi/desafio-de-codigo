@@ -39,3 +39,7 @@ Soma de H com N termos: https://gist.github.com/jan1ooo/3c5059443be82aadf2ade124
 ## Bootcamp Desenvolvimento Java com Cloud AWS
 
 Validando a Força de Senhas no IAM: https://gist.github.com/jan1ooo/7ad2e7aebe32d9556f24b7946b808125
+
+Velocidade de Download na AWS: https://gist.github.com/jan1ooo/0f289e770311ba754184b7ba962a4ad8
+
+Calculando Seus Custos na AWS: https://gist.github.com/jan1ooo/784124b1b2c973b53a561772ef568a23
