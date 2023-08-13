@@ -43,3 +43,7 @@ Validando a Força de Senhas no IAM: https://gist.github.com/jan1ooo/7ad2e7aebe3
 Velocidade de Download na AWS: https://gist.github.com/jan1ooo/0f289e770311ba754184b7ba962a4ad8
 
 Calculando Seus Custos na AWS: https://gist.github.com/jan1ooo/784124b1b2c973b53a561772ef568a23
+
+Monitoramento e Análise de Logs AWS: https://gist.github.com/jan1ooo/71b60958064f0724c9d2eedea3d8a07c
+
+Regras Para Dimensionamento de Infraestrutura com EKS: https://gist.github.com/jan1ooo/f5dc9d5dcb2ae8ea77f14977c61cf37d
