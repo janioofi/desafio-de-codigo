@@ -12,6 +12,7 @@ public class CalculandoCustoAWS {
         // Recebendo as informações do usuário
         int quantidadeServidores = scanner.nextInt();
 
+
         int quantidadeBancosDados = scanner.nextInt();
 
         //TODO: Calcule os custos
