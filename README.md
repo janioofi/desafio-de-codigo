@@ -50,15 +50,18 @@ Monitoramento e Análise de Logs AWS: https://gist.github.com/jan1ooo/71b6095806
 
 Regras Para Dimensionamento de Infraestrutura com EKS: https://gist.github.com/jan1ooo/f5dc9d5dcb2ae8ea77f14977c61cf37d
 
+<!-- JavaScript -->
 # JavaScript
+<details>
+<summary><span>Santander Bootcamp 2023 - Fullstack Java+Angular</span></summary>
+  
+|                      Desafio                       |                           Código                                                                 | SQ  |
+| :------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :-: |
+|                 Equilibrando o Saldo               |              [🔗](https://gist.github.com/jan1ooo/f60307e946e46e90c73c6e6f14d8eff7)              |     |
+|                 Organizando seus Ativos            |              [🔗](https://gist.github.com/jan1ooo/736e66137192026c936b5e99699869ac)              |     |
+|                  Condicionalmente Rico             |              [🔗](https://gist.github.com/jan1ooo/e550f7a8352b43231a9b99472b8debc6)              |     |
+|                  Juros Compostos                   |              [🔗](https://gist.github.com/jan1ooo/a3999eef646c08c082eb00a9d8ef779b)              |     |
+|                  O Grande Deposito                 |              [🔗](https://gist.github.com/jan1ooo/df039b1826e2f140967c95fd6bf1e483)              |     |
 
-## Santander Bootcamp 2023 - Fullstack Java+Angular
-Equilibrando o Saldo: https://gist.github.com/jan1ooo/f60307e946e46e90c73c6e6f14d8eff7
+</details
 
-Organizando seus Ativos: https://gist.github.com/jan1ooo/736e66137192026c936b5e99699869ac
-
-Condicionalmente Rico: https://gist.github.com/jan1ooo/e550f7a8352b43231a9b99472b8debc6
-
-Juros Compostos: https://gist.github.com/jan1ooo/a3999eef646c08c082eb00a9d8ef779b
-
-O Grande Deposito: https://gist.github.com/jan1ooo/df039b1826e2f140967c95fd6bf1e483
