@@ -13,6 +13,19 @@
 
 **Regras Para Dimensionamento de Infraestrutura com EKS:** https://gist.github.com/jan1ooo/f5dc9d5dcb2ae8ea77f14977c61cf37d
 #
+#
+**Santander Bootcamp 2023 - Fullstack Java+Angular**
+
+**Abrindo Contas:** https://gist.github.com/jan1ooo/b3d670f8e3243777a4dbfe990439b7b9
+
+**Herança Bancária:** https://gist.github.com/jan1ooo/c74e236fb1ac2e5a7211779fe53c5330
+
+**Cofres Seguros:** https://gist.github.com/jan1ooo/784124b1b2c973b53a561772ef568a23
+
+**Reunião de Acionistas:** https://gist.github.com/jan1ooo/44457fe41c113729b5289f103d36c3db
+
+**A Última Transação:** https://gist.github.com/jan1ooo/74dfd391522927ecbca4858deaf863c1
+#
 **Sem Bootcamp especificado**
 
 **Mjolnir:** https://gist.github.com/jan1ooo/1bc944678dc316fd7b8501882b14cc22
