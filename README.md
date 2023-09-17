@@ -1,4 +1,34 @@
 ### Respostas para os desafios de código DIO
+### **_JavaScript_**
+#
+**Santander Bootcamp 2023 - Fullstack Java+Angular**
+
+**Equilibrando o Saldo:** https://gist.github.com/jan1ooo/f60307e946e46e90c73c6e6f14d8eff7
+
+**Organizando seus Ativos:** https://gist.github.com/jan1ooo/736e66137192026c936b5e99699869ac
+
+**Condicionalmente Rico:** https://gist.github.com/jan1ooo/e550f7a8352b43231a9b99472b8debc6
+
+**Juros Compostos:** https://gist.github.com/jan1ooo/a3999eef646c08c082eb00a9d8ef779b
+
+**O Grande Deposito:** https://gist.github.com/jan1ooo/df039b1826e2f140967c95fd6bf1e483
+
+#
+### **_Kotlin_**
+#
+**Code Update TQI - Backend com Kotlin e Java**
+
+**Singleton:** https://gist.github.com/jan1ooo/efef00854d664b193033c5e961f6f2b9
+
+**Builder:** https://gist.github.com/jan1ooo/6d3f676c1ad57dbbea254855674acc11
+
+**Adapter:** https://gist.github.com/jan1ooo/e4504682450737a7e78c2b5eb1f7f059
+
+**Extension Function:** https://gist.github.com/jan1ooo/c51ed825ba2f97e9d707841ea380ac39
+
+**Processamento Paralelo/Assíncrono:** https://gist.github.com/jan1ooo/c2052a9dc3d2370fe634a04b29e7433d
+
+#
 ### **_Java_**
 #
 **Bootcamp Desenvolvimento Java com Cloud AWS**
@@ -64,17 +94,4 @@
 
 **Soma de H com N termos:** https://gist.github.com/jan1ooo/3c5059443be82aadf2ade12432a8315a
 #
-### **_JavaScript_**
-#
-**Santander Bootcamp 2023 - Fullstack Java+Angular**
-
-**Equilibrando o Saldo:** https://gist.github.com/jan1ooo/f60307e946e46e90c73c6e6f14d8eff7
-
-**Organizando seus Ativos:** https://gist.github.com/jan1ooo/736e66137192026c936b5e99699869ac
-
-**Condicionalmente Rico:** https://gist.github.com/jan1ooo/e550f7a8352b43231a9b99472b8debc6
-
-**Juros Compostos:** https://gist.github.com/jan1ooo/a3999eef646c08c082eb00a9d8ef779b
-
-**O Grande Deposito:** https://gist.github.com/jan1ooo/df039b1826e2f140967c95fd6bf1e483
 
