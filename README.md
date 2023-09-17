@@ -12,6 +12,7 @@
 **Monitoramento e Análise de Logs AWS:** https://gist.github.com/jan1ooo/71b60958064f0724c9d2eedea3d8a07c
 
 **Regras Para Dimensionamento de Infraestrutura com EKS:** https://gist.github.com/jan1ooo/f5dc9d5dcb2ae8ea77f14977c61cf37d
+
 #
 **Santander Bootcamp 2023 - Fullstack Java+Angular**
 
