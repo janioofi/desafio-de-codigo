@@ -1,67 +1,67 @@
-# Respostas para os desafios de código DIO
+### Respostas para os desafios de código DIO
+### **_Java_**
+#
+**Bootcamp Desenvolvimento Java com Cloud AWS**
 
-# JAVA
+**Validando a Força de Senhas no IAM:** https://gist.github.com/jan1ooo/7ad2e7aebe32d9556f24b7946b808125
 
-Mjolnir: https://gist.github.com/jan1ooo/1bc944678dc316fd7b8501882b14cc22
+**Velocidade de Download na AWS:** https://gist.github.com/jan1ooo/0f289e770311ba754184b7ba962a4ad8
 
-Pedra, Papel e Ataque: https://gist.github.com/jan1ooo/3b2ff3aa525c96e0456b4c8d002c0b70
+**Calculando Seus Custos na AWS:** https://gist.github.com/jan1ooo/784124b1b2c973b53a561772ef568a23
 
-Lendo e pulando nomes: https://gist.github.com/jan1ooo/51be7c6181491224412f598730a72a46
+**Monitoramento e Análise de Logs AWS:** https://gist.github.com/jan1ooo/71b60958064f0724c9d2eedea3d8a07c
 
-Arrays e Pares: https://gist.github.com/jan1ooo/75b560f928ed9e02e653093a3c5d64f9
+**Regras Para Dimensionamento de Infraestrutura com EKS:** https://gist.github.com/jan1ooo/f5dc9d5dcb2ae8ea77f14977c61cf37d
+#
+**Sem Bootcamp especificado**
 
-Cálculo simples: https://gist.github.com/jan1ooo/de026c24bbf85962c9784c6596989fe6
+**Mjolnir:** https://gist.github.com/jan1ooo/1bc944678dc316fd7b8501882b14cc22
 
-Reduzindo um número a zero: https://gist.github.com/jan1ooo/db20b18d8dfdf46f1c44fa9589651048
+**Pedra, Papel e Ataque:** https://gist.github.com/jan1ooo/3b2ff3aa525c96e0456b4c8d002c0b70
 
-Robô: https://gist.github.com/jan1ooo/c360ee81616d0bea946a37c09645efed
+**Lendo e pulando nomes:** https://gist.github.com/jan1ooo/51be7c6181491224412f598730a72a46
 
-Contando números pares: https://gist.github.com/jan1ooo/1df3606d7590bc36049064f9135521cf
+**Arrays e Pares:** https://gist.github.com/jan1ooo/75b560f928ed9e02e653093a3c5d64f9
 
-Industria da Multa: https://gist.github.com/jan1ooo/8753ff088f0eb2d94536eef0d539c02
+**Cálculo simples:** https://gist.github.com/jan1ooo/de026c24bbf85962c9784c6596989fe6
 
-Mesada do Sobrinho: https://gist.github.com/jan1ooo/7861008c181ddd205836fe12dbc232de
+**Reduzindo um número a zero:** https://gist.github.com/jan1ooo/db20b18d8dfdf46f1c44fa9589651048
 
-Download de pacotes: https://gist.github.com/jan1ooo/03de60234d7e6639418afa13a3d24caa
+**Robô:** https://gist.github.com/jan1ooo/c360ee81616d0bea946a37c09645efed
 
-Leitura da Gertrudes: https://gist.github.com/jan1ooo/947c4e8e6f0a89c2810f319f2227c611
+**Contando números pares:** https://gist.github.com/jan1ooo/1df3606d7590bc36049064f9135521cf
 
-Lojinha de Doces: https://gist.github.com/jan1ooo/da4152e8dd7c4700a4831f4ee36a3c4b
+**Industria da Multa:** https://gist.github.com/jan1ooo/8753ff088f0eb2d94536eef0d539c02
 
-Fábrica de Carros: https://gist.github.com/jan1ooo/04e75253227af47b5bf535118ae8028a
+**Mesada do Sobrinho:** https://gist.github.com/jan1ooo/7861008c181ddd205836fe12dbc232de
 
-Dragão: https://gist.github.com/jan1ooo/a117e6b4d3f1d37ffea9a65768713a19
+**Download de pacotes:** https://gist.github.com/jan1ooo/03de60234d7e6639418afa13a3d24caa
 
-Fibonacci Fácil: https://gist.github.com/jan1ooo/6f38003d4a2c48ad73576d6e45b1fcb9
+**Leitura da Gertrudes:** https://gist.github.com/jan1ooo/947c4e8e6f0a89c2810f319f2227c611
 
-Imprimindo Positivos e Média: https://gist.github.com/jan1ooo/dcabfcb0eb24472f22ff2457b4185400
+**Lojinha de Doces:** https://gist.github.com/jan1ooo/da4152e8dd7c4700a4831f4ee36a3c4b
 
-Soma de H com N termos: https://gist.github.com/jan1ooo/3c5059443be82aadf2ade12432a8315a
+**Fábrica de Carros:** https://gist.github.com/jan1ooo/04e75253227af47b5bf535118ae8028a
 
-## Bootcamp Desenvolvimento Java com Cloud AWS
+**Dragão:** https://gist.github.com/jan1ooo/a117e6b4d3f1d37ffea9a65768713a19
 
-Validando a Força de Senhas no IAM: https://gist.github.com/jan1ooo/7ad2e7aebe32d9556f24b7946b808125
+**Fibonacci Fácil:** https://gist.github.com/jan1ooo/6f38003d4a2c48ad73576d6e45b1fcb9
 
-Velocidade de Download na AWS: https://gist.github.com/jan1ooo/0f289e770311ba754184b7ba962a4ad8
+**Imprimindo Positivos e Média:** https://gist.github.com/jan1ooo/dcabfcb0eb24472f22ff2457b4185400
 
-Calculando Seus Custos na AWS: https://gist.github.com/jan1ooo/784124b1b2c973b53a561772ef568a23
+**Soma de H com N termos:** https://gist.github.com/jan1ooo/3c5059443be82aadf2ade12432a8315a
+#
+### **_JavaScript_**
+#
+**Santander Bootcamp 2023 - Fullstack Java+Angular**
 
-Monitoramento e Análise de Logs AWS: https://gist.github.com/jan1ooo/71b60958064f0724c9d2eedea3d8a07c
+**Equilibrando o Saldo:** https://gist.github.com/jan1ooo/f60307e946e46e90c73c6e6f14d8eff7
 
-Regras Para Dimensionamento de Infraestrutura com EKS: https://gist.github.com/jan1ooo/f5dc9d5dcb2ae8ea77f14977c61cf37d
+**Organizando seus Ativos:** https://gist.github.com/jan1ooo/736e66137192026c936b5e99699869ac
 
-<!-- JavaScript -->
-# JavaScript
-<details>
-<summary><span>Santander Bootcamp 2023 - Fullstack Java+Angular</span></summary>
-  
-|                      Desafio                       |                           Código                                                                 | SQ  |
-| :------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :-: |
-|                 Equilibrando o Saldo               |              [🔗](https://gist.github.com/jan1ooo/f60307e946e46e90c73c6e6f14d8eff7)              |     |
-|                 Organizando seus Ativos            |              [🔗](https://gist.github.com/jan1ooo/736e66137192026c936b5e99699869ac)              |     |
-|                  Condicionalmente Rico             |              [🔗](https://gist.github.com/jan1ooo/e550f7a8352b43231a9b99472b8debc6)              |     |
-|                  Juros Compostos                   |              [🔗](https://gist.github.com/jan1ooo/a3999eef646c08c082eb00a9d8ef779b)              |     |
-|                  O Grande Deposito                 |              [🔗](https://gist.github.com/jan1ooo/df039b1826e2f140967c95fd6bf1e483)              |     |
+**Condicionalmente Rico:** https://gist.github.com/jan1ooo/e550f7a8352b43231a9b99472b8debc6
 
-</details
+**Juros Compostos:** https://gist.github.com/jan1ooo/a3999eef646c08c082eb00a9d8ef779b
+
+**O Grande Deposito:** https://gist.github.com/jan1ooo/df039b1826e2f140967c95fd6bf1e483
 
