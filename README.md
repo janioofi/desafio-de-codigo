@@ -1,4 +1,6 @@
 ### Respostas para os desafios de código DIO
+<br>
+
 ### **_JavaScript_**
 #
 **Santander Bootcamp 2023 - Fullstack Java+Angular**
@@ -13,7 +15,8 @@
 
 **O Grande Deposito:** https://gist.github.com/jan1ooo/df039b1826e2f140967c95fd6bf1e483
 
-#
+<br>
+
 ### **_Kotlin_**
 #
 **Code Update TQI - Backend com Kotlin e Java**
@@ -28,7 +31,8 @@
 
 **Processamento Paralelo/Assíncrono:** https://gist.github.com/jan1ooo/c2052a9dc3d2370fe634a04b29e7433d
 
-#
+<br>
+
 ### **_Java_**
 #
 **Bootcamp Desenvolvimento Java com Cloud AWS**
