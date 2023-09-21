@@ -54,7 +54,7 @@
 
 **Herança Bancária:** https://gist.github.com/jan1ooo/c74e236fb1ac2e5a7211779fe53c5330
 
-**Cofres Seguros:** https://gist.github.com/jan1ooo/784124b1b2c973b53a561772ef568a23
+**Cofres Seguros:** https://gist.github.com/jan1ooo/2b9a64b07fae78b34e8916652904fb2b
 
 **Reunião de Acionistas:** https://gist.github.com/jan1ooo/44457fe41c113729b5289f103d36c3db
 
